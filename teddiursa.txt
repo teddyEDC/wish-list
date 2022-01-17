@@ -1,5 +1,5 @@
 title:This is a compiled collection of my personal god rolls
-description:me & my peen
+description:by TeddyEDC, or eyedntcry
 
 title:30th Anniversary Weapons
 
@@ -91,3 +91,25 @@ dimwishlist:item=1697682876&perks=1300023272,679225683,972757866,47981717,186337
 dimwishlist:item=1697682876&perks=1300023272,679225683,972757866,47981717,186337601
 dimwishlist:item=1697682876&perks=1300023272,679225683,972757866,47981717,186337601
 dimwishlist:item=1697682876&perks=1300023272,679225683,972757866,47981717,186337601
+dimwishlist:item=1697682876&perks=1047830412,679225683,972757866,47981717,186337601
+
+title:Iron Banana
+
+// Multimach CCX (PvP first choice roll)
+// Model 8 Red, Accurized Rounds, Killing Wind, (Iron Reach, Kill Clip)
+//notes:(M+KB / PvP) Recommended MW: Range or Stability.|tags:mkb,pvp
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007,384158423
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007,384158423
+
+// Riiswalker (PvP first choice roll)
+// (Full Choke, Barrel Shroud), Assault Mag, (Surplus, Quickdraw, Hip-Fire Grip), Iron Reach
+//notes:(M+KB / PvP) Recommended MW: Range or Handling.|tags:mkb,pvp
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007,2697220197
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,591790007,2697220197
+dimwishlist:item=108221785&perks=1300023272,791862061,1866048759,591790007,2697220197
+
+// The Time-Worn Spire (PvP first choice roll)
+// Red Dot Micro, High Cal, (Under Pressure, Moving Target), Iron Reach
+//notes:(M+KB / PvP) Recommended MW: Stability.|tags:mkb,pvp
+dimwishlist:item=3593598010&perks=2405638014,1561002382,1645158859,591790007,384158423
+dimwishlist:item=3593598010&perks=2405638014,1561002382,588594999,591790007,384158423
